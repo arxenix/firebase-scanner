@@ -2,7 +2,7 @@
 
 This project contains various tools used for automated scanning and vulnerability discovery in firebase apps.
 
-It is requires python 3.
+It requires python 3.
 
 
 Requirements: (`pip install requirements.txt`)
