@@ -1,2 +1,2 @@
 pypcapkit==0.14.3
-requests==2.21.0
+requests==2.31.0
